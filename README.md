@@ -6,7 +6,7 @@ Design Requirements
 
  - Automatically switch between a DC power supply and Batteries as a Un-Interruptable Power Supply. (Similar to the BTT 24V UPS: https://biqu.equipment/products/btt-ups-24v-v1-0-resume-printing-while-power-off-module)
 
- - Ability to handle an Ender 3 or equivalent 24V powered 3D printer - Max 240W DC output (24V/15A)
+ - Ability to handle an Ender 3 or equivalent 24V powered 3D printer - Max 360W DC output (24V/15A)
 
  - Batteries need to be commonly available: LiFEPO4 packs from Amazon, Powertool Batteries (Ryobi, Milwuakee, Bauer), SLA (Sealed Lead-Acid)
 
